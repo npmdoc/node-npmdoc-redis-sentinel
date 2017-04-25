@@ -1,4 +1,7 @@
-# api documentation for  [redis-sentinel (v0.3.3)](https://github.com/ortoo/node-redis-sentinel)  [![npm package](https://img.shields.io/npm/v/npmdoc-redis-sentinel.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-redis-sentinel) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-redis-sentinel.svg)](https://travis-ci.org/npmdoc/node-npmdoc-redis-sentinel)
+# npmdoc-redis-sentinel
+
+#### basic api documentation for  [redis-sentinel (v0.3.3)](https://github.com/ortoo/node-redis-sentinel)  [![npm package](https://img.shields.io/npm/v/npmdoc-redis-sentinel.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-redis-sentinel) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-redis-sentinel.svg)](https://travis-ci.org/npmdoc/node-npmdoc-redis-sentinel)
+
 #### Redis sentinel client for nodejs
 
 [![NPM](https://nodei.co/npm/redis-sentinel.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/redis-sentinel)
@@ -59,7 +62,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.3.3"
+    "version": "0.3.3",
+    "bin": {}
 }
 ```
 
